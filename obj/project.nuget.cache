@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "fH6WJNgNgeTYmPFlM2i5rbAMyNR0cM30lWZoENHSaPmzCH+EegEtcXeU9oHQAY3wgr9f6aOAVpoCWzFL72rv9Q==",
+  "success": true,
+  "projectFilePath": "O:\\WindowsProjects\\test_ffmpeg\\test_ffmpeg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quark\\.nuget\\packages\\ffme.windows\\4.4.350\\ffme.windows.4.4.350.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\ffmpeg.autogen\\4.4.0\\ffmpeg.autogen.4.4.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\ffmpegcore\\5.1.0\\ffmpegcore.5.1.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\instances\\3.0.0\\instances.3.0.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\opencvsharp4\\4.7.0.20230115\\opencvsharp4.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\opencvsharp4.extensions\\4.7.0.20230115\\opencvsharp4.extensions.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\opencvsharp4.runtime.win\\4.7.0.20230115\\opencvsharp4.runtime.win.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\opencvsharp4.windows\\4.7.0.20230115\\opencvsharp4.windows.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\quark\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
